@@ -6,6 +6,8 @@ def isLeapYear(myYear):
     if ( myYear % 4 ) == 0:
         if ( myYear % 100 ) != 0:
             return "true"
+        else:
+            return "false"
     else:
         return "false"
 
