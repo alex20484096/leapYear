@@ -20,10 +20,3 @@ else:
         print(isLeapYear(value))
     else:
         print ("Please provide an interger value")
-
-
-#print(len(sys.argv))
-#print(value)
-
-
-#print(isinstance(10.2, (int)))
